@@ -15,7 +15,7 @@ Welcome
 
 - 📫 Contact me about business using [SpoopyDev](https://spoopydev.ml/discord)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=goodinside&hide_border=true&background=DD272700&border=DD272700&stroke=DDDDDD55&ring=9DD5C8&fire=2F8E9E&currStreakNum=2F8E9E&sideNums=9DD5C8&currStreakLabel=BB73D7&sideLabels=BB73D7&dates=CFCFCF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=goodinside&hide_border=true&background=DD272700&border=DD272700&stroke=DDDDDD55&ring=6272a4&fire=ff79c6&currStreakNum=8be9fd&sideNums=8be9fd&currStreakLabel=ff79c6&sideLabels=ff79c6&dates=6272a4)](https://git.io/streak-stats)
 
 ### Contact me!
 
@@ -31,6 +31,6 @@ Welcome
  
 ### Statistics
 
-![goodinside](https://github-readme-stats-jw8wdgzpa-goodinside.vercel.app/api/top-langs?username=GoodInside&exclude_repo=github-readme-stats&hide_border=true&show_icons=true&locale=en&bg_color=45,DDDDDD00,DDDDDD00&text_color=fff&title_color=adbac7&border_color=000)
+![goodinside](https://github-readme-stats-jw8wdgzpa-goodinside.vercel.app/api/top-langs?username=GoodInside&exclude_repo=github-readme-stats&hide_border=true&show_icons=true&locale=en&bg_color=45,DDDDDD00,DDDDDD00&text_color=fff&title_color=8be9fd&border_color=000)
 
-![goodinside](https://github-readme-stats-jw8wdgzpa-goodinside.vercel.app/api?username=GoodInside&hide_border=true&show_icons=true&locale=en&count_private=true&bg_color=45,DDDDDD00,DDDDDD00&text_color=9dd5c8&title_color=adbac7&border_color=000&icon_color=2f8e9e)
+![goodinside](https://github-readme-stats-jw8wdgzpa-goodinside.vercel.app/api?username=GoodInside&hide_border=true&show_icons=true&locale=en&count_private=true&bg_color=45,DDDDDD00,DDDDDD00&text_color=9dd5c8&title_color=8be9fd&border_color=000&icon_color=6272a4)
