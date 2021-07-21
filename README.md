@@ -3,7 +3,7 @@ Welcome
 
 ### I'm GoodInside, I am a Semi-independant Bukkit / Java Developer and Administrator of [@SpoopyDev-Inc](https://github.com/spoopydev-inc)
 
-<img src="https://github-profile-trophy.vercel.app/?username=spoopytim&theme=onedark" />
+<img src="https://github-profile-trophy.vercel.app/?username=spoopytim&theme=dracula&no-frame=true&no-bg=true" />
 
 - 🔭 I’m currently working on [ServerCore.jar](https://github.com/GoodInside/servercore) - a Full Essential Server Core
 
