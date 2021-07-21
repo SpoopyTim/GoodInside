@@ -1,7 +1,7 @@
 Welcome
 ====================
 
-### I'm GoodInside, I am a Semi-independant Bukkit / Java Developer and Administrator of @SpoopyDev-Inc
+### I'm GoodInside, I am a Semi-independant Bukkit / Java Developer and Administrator of [@SpoopyDev-Inc](https://github.com/spoopydev-inc)
 
 <img src="https://github-profile-trophy.vercel.app/?username=spoopytim&theme=onedark" />
 
